@@ -1,6 +1,6 @@
 ## Hi there, I'm Lucas / Olá, eu sou o Lucas 👋
 
-## Atualemnte estou focando em me desenvolver na área de TI (especificamente no ramo de dados). Possuo experiencia com Power BI, Oracle e código no geral. Utilizo linguagens como Python, Java, r e SQL para manipular dados e os submeter em processos de limpeza. Tô sem ideia do que colocar :)
+## Atualmente estou focando em me desenvolver na área de TI (especificamente no ramo de dados). Possuo experiencia com Power BI, Oracle e linguagens de programação (como python, java e c). Também utilizo bastante o SQL através de postgre, devido a exigência do meu curso em si. Tô sem ideia do que colocar :)
 
 <!--
 **ciinsanity/ciinsanity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
